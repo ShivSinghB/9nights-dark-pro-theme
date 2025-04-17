@@ -22,7 +22,7 @@
 ![9nights Theme Screenshot](./images/darkPro.png)
 
 ### Manual Installation:
-1. Download the theme `.vsix` file from the [Releases Page](https://github.com/ShivSinghB/9nights-dark-pro) (if available).
+1. Download the theme `.vsix` file from the [Releases Page](https://github.com/ShivSinghB/9nights-dark-pro-theme) (if available).
 2. Open VS Code.
 3. Go to the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
 4. Type "Extensions: Install from VSIX" and select it.
@@ -42,5 +42,22 @@ This theme is licensed under the MIT License. See [LICENSE](LICENSE) for more in
 ## Developed By 🧑‍💻
 - **Shiv Singh Baghel**
 
-## Acknowledgements 🙏
-- Special thanks to the open-source community for providing tools and resources to make this theme possible.
+## 📦 Install
+
+Available on the VS Code Marketplace:  
+👉 [9Nights Dark Pro](https://marketplace.visualstudio.com/items?itemName=ShivSinghBaghel.9nights-dark-pro)
+
+## 💡 Why I Made This
+
+I’ve spent countless nights coding, and every theme I tried either felt too harsh or too dull. So I built one that feels just right — modern, minimal, and kind to the eyes.
+
+> Released on: **3rd July 2025 at 3:52:05 PM**
+
+## 🔒 License
+
+MIT © [Shiv Singh Baghel](https://github.com/ShivSinghBaghel)
+
+---
+
+Made with ❤️ for devs who code deep into the night.
+
