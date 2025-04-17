@@ -55,7 +55,7 @@ I’ve spent countless nights coding, and every theme I tried either felt too ha
 
 ## 🔒 License
 
-MIT © [Shiv Singh Baghel](https://github.com/ShivSinghBaghel)
+MIT © [ShivSinghB](https://github.com/ShivSinghB)
 
 ---
 
